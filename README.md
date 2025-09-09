@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-=======
-
----
-
 # 📖 Description
 
 This is a Java-based console application that allows users to input their mood in natural language and get an instant response with a related emoji. The program identifies keywords such as happy, sad, angry, tired, or excited and responds accordingly. It helps users express emotions interactively while practicing core Java concepts like input handling, string manipulation, and conditionals.
