@@ -34,8 +34,4 @@ This is a Java-based console application that allows users to input their mood i
 This project is developed for educational purposes as part of the **MotionCut Internship Program**.
 
 ---
-
-# 🤝 Acknowledgements
->>>>>>> 01802bf (Add README file)
-
 Thanks to **MotionCut** for providing this internship opportunity and helping students enhance their Java programming skills.
